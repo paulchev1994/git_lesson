@@ -3,4 +3,4 @@ def my_square(x):
 	"""
 	return(x **2)
 
-pring(my_square(3))
+pring(my_square(4))
